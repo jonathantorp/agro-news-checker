@@ -1,12 +1,14 @@
 {
-  "search_terms": [
+  "search_queries": [
     "Institut for Agroøkologi",
-    "Department of Agroecology",
-    "Aarhus University Department of Agroecology",
-    "Aarhus Universitet Institut for Agroøkologi",
-    "AU Agroøkologi",
-    "AU Agroecology"
+    "\"Department of Agroecology\" Aarhus",
+    "\"Aarhus Universitet\" agroøkologi",
+    "\"Aarhus University\" agroecology",
+    "\"AU Foulum\" agroøkologi",
+    "\"AU Flakkebjerg\" agroøkologi"
   ],
-  "lookback": "1month",
-  "max_records_per_term": 250
+  "daily_pages": 1,
+  "backfill_pages": 10,
+  "results_per_page": 50,
+  "request_delay_seconds": 1
 }
