@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "17 5 * * *"
   workflow_dispatch:
+    inputs:
+      backfill:
+        description: "Search additional historical result pages"
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -37,7 +43,11 @@ jobs:
         id: collect
         shell: bash
         run: |
-          output="$(python -m src.collector)"
+          backfill_flag=""
+          if [[ "${{ inputs.backfill || false }}" == "true" ]]; then
+            backfill_flag="--backfill"
+          fi
+          output="$(python -m src.collector $backfill_flag)"
           echo "$output"
           echo "$output" >> "$GITHUB_OUTPUT"
 
