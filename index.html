@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="da">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Online omtale af Institut for Agroøkologi ved Aarhus Universitet.">
+    <title>Institut for Agroøkologi i medierne</title>
+    <link rel="stylesheet" href="assets/styles.css">
+    <script src="assets/app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <p class="eyebrow">Aarhus Universitet</p>
+        <h1>Institut for Agroøkologi i medierne</h1>
+        <div class="summary" aria-live="polite">
+          <span><strong id="total">–</strong> omtaler</span>
+          <span>Senest opdateret <time id="updated">–</time></span>
+        </div>
+      </div>
+    </header>
+    <main class="container">
+      <p id="status" class="status">Henter omtaler…</p>
+      <ol id="articles" class="articles" aria-label="Medieomtaler"></ol>
+    </main>
+    <footer class="container">
+      <p>Data leveres af GDELT og opdateres automatisk.</p>
+    </footer>
+  </body>
+</html>
