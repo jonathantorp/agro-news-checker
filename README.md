@@ -1,6 +1,6 @@
 # AGRO News Checker
 
-A lightweight media monitor for the Department of Agroecology at Aarhus University. It searches the GDELT DOC API once a day, keeps a permanent JSON archive of unique mentions, and publishes a Danish-language dashboard through GitHub Pages.
+A lightweight media monitor for the Department of Agroecology at Aarhus University. It searches both Bing News and the broader Bing web index once a day, keeps a permanent JSON archive of unique mentions, and publishes a Danish-language dashboard through GitHub Pages.
 
 ## Project structure
 
@@ -10,7 +10,7 @@ A lightweight media monitor for the Department of Agroecology at Aarhus Universi
 ├── assets/                                  Dashboard JavaScript and CSS
 ├── config/search_terms.json                 Editable searches and API limits
 ├── data/articles.json                       Permanent article archive
-├── src/collector.py                         GDELT client, cleanup, and merge logic
+├── src/collector.py                         RSS search, metadata, cleanup, and merge logic
 ├── tests/test_collector.py                  Unit tests
 └── index.html                               Static dashboard
 ```
@@ -19,7 +19,9 @@ The project deliberately has no runtime dependencies outside Python's standard l
 
 ## How it works
 
-For every configured phrase, the collector requests up to 250 recent results from the [GDELT DOC 2.0 API](https://blog.gdeltproject.org/gdelt-doc-2-0-api-debuts/). Each result is reduced to its headline, canonical URL, publisher, publication date, first discovery time, and matching phrase.
+For every configured query, the collector searches both Bing News and Bing Web through their RSS output. This removes the previous single-source dependency on GDELT, which throttled the first production run. Queries deliberately combine exact department names with broader Danish and English combinations.
+
+Each result is reduced to its headline, direct canonical URL, publisher, publication date, first discovery time, matching query, and discovery source. When an RSS result has no date, the collector reads only standard publication-date metadata from that article page; it does not copy article content.
 
 Before comparison, URLs are normalised by:
 
@@ -38,6 +40,7 @@ Python 3.11 or newer is recommended.
 ```bash
 python -m unittest discover -v
 python -m src.collector
+python -m src.collector --backfill
 python -m http.server 8000
 ```
 
@@ -54,7 +57,7 @@ python -m src.collector --config path/to/config.json --data path/to/articles.jso
 
 Edit `config/search_terms.json` and add a phrase to the `search_terms` array. Keep the JSON valid and use plain phrases; the collector supplies the quotation marks required for exact GDELT matching.
 
-`lookback` controls how far each daily query looks back. The default one-month overlap makes a temporary outage unlikely to lose an article. `max_records_per_term` is capped by GDELT and defaults to 250.
+`daily_pages` controls the normal daily depth. `backfill_pages` controls the deeper manual historical scan, and `results_per_page` controls the requested page size. Search indexes decide which historical results remain available, so a backfill is broader but not a guaranteed complete archive.
 
 Run the tests and collector locally after changing the configuration.
 
@@ -65,7 +68,7 @@ Run the tests and collector locally after changing the configuration.
 Each run:
 
 1. checks out the repository and runs the unit tests;
-2. queries GDELT with retries and a 20-second timeout per attempt;
+2. queries news and web RSS searches with retries, timeouts, and a delay between requests;
 3. atomically merges new unique articles into the archive;
 4. commits and pushes `data/articles.json` only when at least one new article was found;
 5. uploads and deploys the static dashboard to GitHub Pages.
@@ -83,7 +86,7 @@ If the default branch is protected, permit GitHub Actions to push to it, or adju
 
 ## Verify the first run
 
-Open the repository's **Actions** tab, select **Update news and deploy**, and inspect the latest run. Confirm:
+Open the repository's **Actions** tab, select **Update news and deploy**, and inspect the latest run. For a deeper one-off import, choose **Run workflow**, enable **Search additional historical result pages**, and start it. Confirm:
 
 - **Run tests** passes;
 - **Collect news** logs each configured phrase and prints `new_articles=N`;
@@ -96,7 +99,7 @@ GitHub schedules use UTC and may start a few minutes after the exact cron time. 
 
 ## Troubleshooting
 
-- **All searches fail:** Open the collector logs. GDELT may be temporarily unavailable or throttling requests. The existing JSON archive is intentionally left untouched; retry the workflow later.
+- **All searches fail:** Open the collector logs. The search service may be temporarily unavailable or throttling requests. The existing JSON archive is intentionally left untouched; retry the workflow later.
 - **Some searches fail:** The run continues with the successful terms and logs each failure. The one-month lookback lets a later run catch up.
 - **No commit appears:** This is expected when `new_articles=0`. Check the collector step rather than treating a skipped commit as an error.
 - **Push is rejected:** Enable write workflow permissions and review branch-protection rules.
@@ -110,7 +113,7 @@ Potential later improvements, deliberately not included in Version 1:
 
 - relevance scoring and exclusion phrases to reduce false positives;
 - a small review/approval queue before public display;
-- RSS or another news API as a fallback source;
+- an additional licensed media database or news API as another source;
 - publisher and date filters, search, CSV export, and simple trends;
 - alerts by email or Teams when a new mention is found;
 - monitoring for stale runs and notifications after repeated API failures;
