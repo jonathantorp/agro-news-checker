@@ -1,5 +1,5 @@
 {
-  "last_successful_update": "2026-10-12T13:10:09.269912Z",
+  "last_successful_update": "2026-10-13T12:42:43.253732Z",
   "articles": [
     {
       "headline": "Ledige jobs i København",
@@ -578,12 +578,30 @@
       "source": "Bing News"
     },
     {
+      "headline": "Aktiviteter og attraktioner i Nordjylland | Oplevelser og natur",
+      "url": "https://nordjylland.dk/aktiviteter-og-attraktioner",
+      "publisher": "nordjylland.dk",
+      "publication_date": "2026-06-19T07:24:05Z",
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "\"Aarhus University\" agroecology",
+      "source": "Bing Web"
+    },
+    {
       "headline": "Best Personalized Story Books for Kids (2026) - lovetales.ai",
       "url": "https://lovetales.ai/blog/best-personalized-story-books-for-kids",
       "publisher": "lovetales.ai",
       "publication_date": "2026-06-18T16:54:02Z",
       "first_discovered": "2026-09-06T09:26:30.967677Z",
       "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Nordjylland | Den skønneste region i norden!",
+      "url": "https://nordjylland.dk/",
+      "publisher": "nordjylland.dk",
+      "publication_date": "2026-06-18T09:18:47Z",
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "\"Aarhus University\" agroecology",
       "source": "Bing Web"
     },
     {
@@ -4868,6 +4886,15 @@
       "publication_date": "2005-06-08T08:12:32Z",
       "first_discovered": "2026-09-27T10:33:25.422299Z",
       "search_term": "\"AU Foulum\" agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Nordjylland - Wikipedia, den frie encyklopædi",
+      "url": "https://da.wikipedia.org/wiki/Nordjylland",
+      "publisher": "da.wikipedia.org",
+      "publication_date": "2005-05-29T00:51:02Z",
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "\"Aarhus University\" agroecology",
       "source": "Bing Web"
     },
     {
@@ -22238,6 +22265,159 @@
       "publication_date": null,
       "first_discovered": "2026-10-12T13:10:09.269912Z",
       "search_term": "\"AU Foulum\" agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Hoteller i Region Sjælland | Find og sammenlign fantastiske tilbud på ...",
+      "url": "https://www.trivago.dk/da/odr/hoteller-region-sj%C3%A6lland-danmark?search=200-25714",
+      "publisher": "www.trivago.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "De bedste hoteller i Region Sjælland – overnatningssteder i og ...",
+      "url": "https://www.booking.com/region/dk/sjaelland.da.html",
+      "publisher": "www.booking.com",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "DE 10 BEDSTE hoteller i Sjælland i 2026 - Tripadvisor",
+      "url": "https://www.tripadvisor.dk/Hotels-g189540-Zealand-Hotels.html",
+      "publisher": "www.tripadvisor.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "De bedste hoteller på Sjælland – overnatningssteder på og omkring ...",
+      "url": "https://www.booking.com/region/dk/sjaelland-island.da.html",
+      "publisher": "www.booking.com",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Hoteller i Region Sjælland, Danmark | Skyscanner",
+      "url": "https://www.skyscanner.dk/hoteller/danmark/region-sj%C3%A6lland-hoteller/rg-95800713",
+      "publisher": "www.skyscanner.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Hoteller i Sjælland – Find billige hoteltilbud i Sjælland ... - momondo",
+      "url": "https://www.momondo.dk/hoteller/region-sjaelland.ksp",
+      "publisher": "www.momondo.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "DE 10 BEDSTE luksushoteller i Sjælland 2026 - Tripadvisor",
+      "url": "https://www.tripadvisor.dk/Hotels-g189540-zff12-Zealand-Hotels.html",
+      "publisher": "www.tripadvisor.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Hoteller i Sjælland | Hotels.com",
+      "url": "https://da.hotels.com/re12455166/hoteller-i-region-sj-lland-danmark",
+      "publisher": "da.hotels.com",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Overnatning Sjælland fra 366 kr med morgenmad - Hotelspecials.dk",
+      "url": "https://www.hotelspecials.dk/dk/sjaelland/overnatning",
+      "publisher": "www.hotelspecials.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Hoteller på Sjælland - Guide til de bedste hoteller (2026)",
+      "url": "https://www.opdagdanmark.dk/guide/sjaelland/overnatning/hotel",
+      "publisher": "www.opdagdanmark.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Nordjylland | Ferie i toppen af Danmark | Besøg Nordjylland",
+      "url": "https://www.visitdenmark.dk/danmark/destinationer/jylland/nordjylland",
+      "publisher": "www.visitdenmark.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "\"Aarhus University\" agroecology",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Nyheder – seneste nyt fra Nordjylland | Nordjyske.dk",
+      "url": "https://nordjyske.dk/",
+      "publisher": "nordjyske.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "\"Aarhus University\" agroecology",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "DE 10 BEDSTE seværdigheder i Nordjylland 2026 - Tripadvisor",
+      "url": "https://www.tripadvisor.dk/Attractions-g2548965-Activities-North_Jutland_Jutland.html",
+      "publisher": "www.tripadvisor.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "\"Aarhus University\" agroecology",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Den officielle guide til det østlige Nordjylland | Enjoy Nordjylland",
+      "url": "https://www.enjoynordjylland.dk/",
+      "publisher": "www.enjoynordjylland.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "\"Aarhus University\" agroecology",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Oplevelser i Nordjylland - Disse skal du opleve i 2026 - OpdagDanmark",
+      "url": "https://www.opdagdanmark.dk/guide/nordjylland/oplevelser",
+      "publisher": "www.opdagdanmark.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "\"Aarhus University\" agroecology",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Byer og steder i Nordjylland",
+      "url": "https://www.enjoynordjylland.dk/nordjylland/feriesteder",
+      "publisher": "www.enjoynordjylland.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "\"Aarhus University\" agroecology",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "DE BEDSTE 10 Seværdigheder og vartegn i Nordjylland, Danmark",
+      "url": "https://www.tripadvisor.dk/Attractions-g2548965-Activities-c47-t163-North_Jutland_Jutland.html",
+      "publisher": "www.tripadvisor.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-13T12:42:43.253732Z",
+      "search_term": "\"Aarhus University\" agroecology",
       "source": "Bing Web"
     }
   ]
