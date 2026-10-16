@@ -1,5 +1,5 @@
 {
-  "last_successful_update": "2026-10-15T09:54:45.397909Z",
+  "last_successful_update": "2026-10-16T09:49:34.801425Z",
   "articles": [
     {
       "headline": "Stjernearkitekten Bjarke Ingels i stor handel: Køber hele hjørnet af ...",
@@ -56,6 +56,15 @@
       "source": "Bing News"
     },
     {
+      "headline": "Aarhus Universitet undskylder fejl i beregning bag kvælstofregulering",
+      "url": "https://www.berlingske.dk/danmark/aarhus-universitet-undskylder-fejl-i-beregning-bag-kvaelstofregulering",
+      "publisher": "www.berlingske.dk",
+      "publication_date": "2026-10-13T13:54:00Z",
+      "first_discovered": "2026-10-16T09:49:34.801425Z",
+      "search_term": "\"Aarhus Universitet\" agroøkologi",
+      "source": "Bing News"
+    },
+    {
       "headline": "Aarhus Universitet retter fejl i beregning bag kvælstofregulering",
       "url": "https://www.dr.dk/nyheder/indland/aarhus-universitet-retter-fejl-i-beregning-bag-kvaelstofregulering",
       "publisher": "www.dr.dk",
@@ -88,6 +97,15 @@
       "publisher": "nyheder.tv2.dk",
       "publication_date": "2026-09-28T07:15:00Z",
       "first_discovered": "2026-10-15T09:54:45.397909Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing News"
+    },
+    {
+      "headline": "- Det er røv ærgerligt og pinligt, siger institutleder",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-09-28-dansk-landbrug-i-forandring/det-er-roev-aergerligt-og-pinligt-siger-institutleder?entry=44c3dbdc-05ea-458f-b1b8-9ed10c46ae29",
+      "publisher": "nyheder.tv2.dk",
+      "publication_date": "2026-09-28T07:15:00Z",
+      "first_discovered": "2026-10-16T09:49:34.801425Z",
       "search_term": "Institut for Agroøkologi",
       "source": "Bing News"
     },
@@ -3661,6 +3679,15 @@
       "publisher": "stiften.dk",
       "publication_date": "2020-02-28T02:46:00Z",
       "first_discovered": "2026-09-01T10:06:21.664786Z",
+      "search_term": "\"Aarhus Universitet\" agroøkologi",
+      "source": "Bing News"
+    },
+    {
+      "headline": "Jørgen E. Olesen er ny institutleder på Aarhus Universitet",
+      "url": "https://www.altinget.dk/artikel/nobelprismodtager-er-ny-institutleder-ved-institut-for-agrooekologi",
+      "publisher": "www.altinget.dk",
+      "publication_date": "2020-02-27T21:00:00Z",
+      "first_discovered": "2026-10-16T09:49:34.801425Z",
       "search_term": "\"Aarhus Universitet\" agroøkologi",
       "source": "Bing News"
     },
