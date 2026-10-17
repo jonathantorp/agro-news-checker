@@ -1,5 +1,5 @@
 {
-  "last_successful_update": "2026-10-16T09:49:34.801425Z",
+  "last_successful_update": "2026-10-17T09:21:34.217001Z",
   "articles": [
     {
       "headline": "Stjernearkitekten Bjarke Ingels i stor handel: Køber hele hjørnet af ...",
@@ -56,6 +56,15 @@
       "source": "Bing News"
     },
     {
+      "headline": "Aarhus Universitet retter fejl i beregning bag kvælstofregulering",
+      "url": "https://politiken.dk/danmark/art11022040/Aarhus-Universitet-retter-fejl-i-beregning-bag-kv%C3%A6lstofregulering",
+      "publisher": "politiken.dk",
+      "publication_date": "2026-10-13T16:12:00Z",
+      "first_discovered": "2026-10-17T09:21:34.217001Z",
+      "search_term": "\"Aarhus Universitet\" agroøkologi",
+      "source": "Bing News"
+    },
+    {
       "headline": "Aarhus Universitet undskylder fejl i beregning bag kvælstofregulering",
       "url": "https://www.berlingske.dk/danmark/aarhus-universitet-undskylder-fejl-i-beregning-bag-kvaelstofregulering",
       "publisher": "www.berlingske.dk",
@@ -107,6 +116,15 @@
       "publication_date": "2026-09-28T07:15:00Z",
       "first_discovered": "2026-10-16T09:49:34.801425Z",
       "search_term": "Institut for Agroøkologi",
+      "source": "Bing News"
+    },
+    {
+      "headline": "\"Meget alvorligt\", siger minister om kvælstof-regnefejl",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-09-28-dansk-landbrug-i-forandring/meget-alvorligt--siger-minister-om-kvaelstof-regnefejl?entry=3a8cc1b8-3eb3-4861-85b5-d576b899069e",
+      "publisher": "nyheder.tv2.dk",
+      "publication_date": "2026-09-28T07:15:00Z",
+      "first_discovered": "2026-10-17T09:21:34.217001Z",
+      "search_term": "\"Aarhus Universitet\" agroøkologi",
       "source": "Bing News"
     },
     {
