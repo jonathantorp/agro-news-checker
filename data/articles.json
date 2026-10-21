@@ -1,5 +1,5 @@
 {
-  "last_successful_update": "2026-10-20T10:04:59.896242Z",
+  "last_successful_update": "2026-10-21T10:08:24.179658Z",
   "articles": [
     {
       "headline": "Stjernearkitekten Bjarke Ingels i stor handel: Køber hele hjørnet af ...",
@@ -16,6 +16,15 @@
       "publisher": "politiken.dk",
       "publication_date": "2026-10-14T10:48:00Z",
       "first_discovered": "2026-10-15T09:54:45.397909Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing News"
+    },
+    {
+      "headline": "Minister ser med alvor på fejl i grundlaget for ny kvælstofregulering",
+      "url": "https://www.msn.com/da-dk/nyheder/other/minister-ser-med-alvor-p%C3%A5-fejl-i-grundlaget-for-ny-kv%C3%A6lstofregulering/ar-AA2ed82O",
+      "publisher": "www.msn.com",
+      "publication_date": "2026-10-14T02:08:00Z",
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
       "search_term": "Institut for Agroøkologi",
       "source": "Bing News"
     },
@@ -43,6 +52,15 @@
       "publisher": "www.dr.dk",
       "publication_date": "2026-10-14T00:20:00Z",
       "first_discovered": "2026-10-14T10:12:59.634531Z",
+      "search_term": "\"Aarhus Universitet\" agroøkologi",
+      "source": "Bing News"
+    },
+    {
+      "headline": "Aarhus Universitet undskylder fejl i beregning bag kvælstofregulering",
+      "url": "https://nyheder.tv2.dk/samfund/2026-10-14-aarhus-universitet-undskylder-fejl-i-beregning-bag-kvaelstofregulering",
+      "publisher": "nyheder.tv2.dk",
+      "publication_date": "2026-10-13T22:38:00Z",
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
       "search_term": "\"Aarhus Universitet\" agroøkologi",
       "source": "Bing News"
     },
@@ -1694,12 +1712,39 @@
       "source": "Bing Web"
     },
     {
+      "headline": "Det sker i København i november 2025 - MigogKBH",
+      "url": "https://migogkbh.dk/det-kan-du-glaede-dig-til-i-november",
+      "publisher": "migogkbh.dk",
+      "publication_date": "2025-11-03T16:34:05Z",
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Det sker i november",
+      "url": "https://tipkbh.dk/det-sker-i-november",
+      "publisher": "tipkbh.dk",
+      "publication_date": "2025-11-01T12:30:49Z",
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
       "headline": "Effective EDMS Integration Guide | Accruent RedEye",
       "url": "https://www.accruent.com/resources/knowledge-hub/integrating-edms-guide",
       "publisher": "www.accruent.com",
       "publication_date": "2025-11-01T04:30:00Z",
       "first_discovered": "2026-09-09T09:45:57.570750Z",
       "search_term": "\"Department of Agroecology\" Aarhus",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Det sker i København | November 2025 - LoveCopenhagen",
+      "url": "https://lovecopenhagen.com/det-sker-i-koebenhavn-november-2025",
+      "publisher": "lovecopenhagen.com",
+      "publication_date": "2025-10-31T13:13:51Z",
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "Institut for Agroøkologi",
       "source": "Bing Web"
     },
     {
@@ -1979,6 +2024,15 @@
       "publication_date": "2025-07-12T12:06:43Z",
       "first_discovered": "2026-08-20T05:46:18.598883Z",
       "search_term": "\"Department of Agroecology\" Aarhus",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Fresh Pizza Delivery & Pickup | &pizza Bold Oblong Pies",
+      "url": "https://andpizza.com/",
+      "publisher": "andpizza.com",
+      "publication_date": "2025-07-11T17:46:35Z",
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "\"AU Foulum\" agroøkologi",
       "source": "Bing Web"
     },
     {
@@ -2348,6 +2402,15 @@
       "publication_date": "2024-11-17T08:48:14Z",
       "first_discovered": "2026-09-21T10:44:56.632089Z",
       "search_term": "\"Department of Agroecology\" Aarhus",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Guide: Det sker i København i november - Tips til København",
+      "url": "https://tipkbh.dk/guide-det-sker-i-koebenhavn-i-november",
+      "publisher": "tipkbh.dk",
+      "publication_date": "2024-11-02T20:14:38Z",
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "Institut for Agroøkologi",
       "source": "Bing Web"
     },
     {
@@ -2799,6 +2862,15 @@
       "first_discovered": "2026-09-14T10:39:02.988306Z",
       "search_term": "\"Department of Agroecology\" Aarhus",
       "source": "Bing Web"
+    },
+    {
+      "headline": "Solstrålehistorie fra AU Flakkebjerg",
+      "url": "https://via.ritzau.dk/pressemeddelelse/13714573/solstralehistorie-fra-au-flakkebjerg?lang=da",
+      "publisher": "via.ritzau.dk",
+      "publication_date": "2023-08-25T02:04:00Z",
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "\"AU Flakkebjerg\" agroøkologi",
+      "source": "Bing News"
     },
     {
       "headline": "Institutleder på AU til Jens Borums kritik af landbrugspakken: Du giver uberettiget kritik af universiteternes rådgivning",
@@ -23219,6 +23291,150 @@
       "publication_date": null,
       "first_discovered": "2026-10-20T10:04:59.896242Z",
       "search_term": "\"AU Foulum\" agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Eventkalender | Copenhagen Visitor Service",
+      "url": "https://visitorservice.kk.dk/eventkalender",
+      "publisher": "visitorservice.kk.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Det sker i København – Kulturkalender | Gokoebenhavn.dk",
+      "url": "https://gokoebenhavn.dk/kulturkalender",
+      "publisher": "gokoebenhavn.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Det sker i København - Se kommende begivenheder og events",
+      "url": "https://migogkbh.dk/kategori/det-sker-i-kbh",
+      "publisher": "migogkbh.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "København i november: Hvad kan du se og lave? - GetYourGuide",
+      "url": "https://www.getyourguide.com/da-dk/explorer/copenhagen-ttd12/copenhagen-in-november",
+      "publisher": "www.getyourguide.com",
+      "publication_date": null,
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "10 Ting at lave i København i november - Hellotickets",
+      "url": "https://www.hellotickets.dk/danmark/kobenhavn/kobenhavn-i-november/sc-202-4482",
+      "publisher": "www.hellotickets.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Hvad sker der i København i dag og i weekenden · kulturKBH",
+      "url": "https://kulturkbh.dk/",
+      "publisher": "kulturkbh.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Ved Diget 25, Kastrup - på - m² - Boligsiden",
+      "url": "https://www.boligsiden.dk/adresse/ved-diget-25-2770-kastrup",
+      "publisher": "www.boligsiden.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "\"Department of Agroecology\" Aarhus",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Ved Diget 25, 2770 Kastrup – Se vigtig info - DinGeo",
+      "url": "https://www.dingeo.dk/adresse/2770-kastrup/ved-diget-25",
+      "publisher": "www.dingeo.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "\"Department of Agroecology\" Aarhus",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Restaurant SAS-Klubben | En god oplevelse",
+      "url": "https://restaurant-sas.dk/",
+      "publisher": "restaurant-sas.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "\"Department of Agroecology\" Aarhus",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Ved diget 25 2770 kastrup - Krak.dk",
+      "url": "https://www.krak.dk/kort/s%C3%B8g/ved+diget+25+2770+kastrup?t=addressLookupCompanies",
+      "publisher": "www.krak.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "\"Department of Agroecology\" Aarhus",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Ved Diget 25 - BBR 2770 Kastrup - Estate Ejendomsmægler",
+      "url": "https://www.estate.dk/bbr-oplysninger/kastrup/ved-diget-25/0a3f50a7-7433-32b8-e044-0003ba298018",
+      "publisher": "www.estate.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "\"Department of Agroecology\" Aarhus",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Restaurant SAS Klubben, Ved Diget 25, Kastrup (2026)",
+      "url": "https://www.findglocal.com/DK/Kastrup/671788962902365/Restaurant-SAS-Klubben",
+      "publisher": "www.findglocal.com",
+      "publication_date": null,
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "\"Department of Agroecology\" Aarhus",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Udstillingscentret Ved Diget - taarnby.dk",
+      "url": "https://www.taarnby.dk/kultur-og-fritid/kultur-og-oplevelser/udstillinger/udstillingscentret-ved-diget",
+      "publisher": "www.taarnby.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "\"Department of Agroecology\" Aarhus",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Ved Diget, 2770 Kastrup - DinGeo",
+      "url": "https://www.dingeo.dk/oversigt/2770-kastrup/ved-diget",
+      "publisher": "www.dingeo.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "\"Department of Agroecology\" Aarhus",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Vognmandsforretning med benzintank , Ved Diget 25, Kastrup",
+      "url": "https://jordforureningskort.dk/lokalitet/185-20033-vognmandsforretning-med-benzintank-ved-diget-25-kastrup",
+      "publisher": "jordforureningskort.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "\"Department of Agroecology\" Aarhus",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Her bor vi | Restaurant SAS-Klubben",
+      "url": "https://restaurant-sas.dk/her-bor-vi",
+      "publisher": "restaurant-sas.dk",
+      "publication_date": null,
+      "first_discovered": "2026-10-21T10:08:24.179658Z",
+      "search_term": "\"Department of Agroecology\" Aarhus",
       "source": "Bing Web"
     }
   ]
