@@ -1,5 +1,5 @@
 {
-  "last_successful_update": "2026-10-29T11:30:56.824285Z",
+  "last_successful_update": "2026-10-31T10:55:28.955619Z",
   "articles": [
     {
       "headline": "Stjernearkitekten Bjarke Ingels i stor handel: Køber hele hjørnet af ...",
@@ -26,6 +26,15 @@
       "publication_date": "2026-10-14T02:08:00Z",
       "first_discovered": "2026-10-21T10:08:24.179658Z",
       "search_term": "Institut for Agroøkologi",
+      "source": "Bing News"
+    },
+    {
+      "headline": "Minister ser med alvor på fejl i grundlaget for ny kvælstofregulering",
+      "url": "https://tidende.dk/natur-og-miljoe/minister-ser-med-alvor-paa-fejl-i-grundlaget-for-ny-kvaelstofregulering/171214",
+      "publisher": "tidende.dk",
+      "publication_date": "2026-10-14T02:08:00Z",
+      "first_discovered": "2026-10-31T10:55:28.955619Z",
+      "search_term": "\"Aarhus Universitet\" agroøkologi",
       "source": "Bing News"
     },
     {
@@ -24119,6 +24128,15 @@
       "publication_date": null,
       "first_discovered": "2026-10-28T11:20:11.551948Z",
       "search_term": "\"Department of Agroecology\" Aarhus",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Solved The thermal conductivity of a sheet of rigid, | Chegg.com",
+      "url": "https://www.chegg.com/homework-help/questions-and-answers/thermal-conductivity-sheet-rigid-extruded-insulation-reported-k-0029w-m-k-measured-tempera-q920465",
+      "publisher": "www.chegg.com",
+      "publication_date": null,
+      "first_discovered": "2026-10-31T10:55:28.955619Z",
+      "search_term": "\"AU Foulum\" agroøkologi",
       "source": "Bing Web"
     }
   ]
