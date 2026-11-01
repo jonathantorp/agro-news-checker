@@ -1,5 +1,5 @@
 {
-  "last_successful_update": "2026-10-31T10:55:28.955619Z",
+  "last_successful_update": "2026-11-01T11:50:24.216656Z",
   "articles": [
     {
       "headline": "Stjernearkitekten Bjarke Ingels i stor handel: Køber hele hjørnet af ...",
@@ -1916,6 +1916,15 @@
       "publication_date": "2025-09-16T13:50:48Z",
       "first_discovered": "2026-08-06T07:49:07.657984Z",
       "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Guldborgsund",
+      "url": "https://www.rundtidanmark.dk/guldborgsund",
+      "publisher": "www.rundtidanmark.dk",
+      "publication_date": "2025-09-14T14:10:39Z",
+      "first_discovered": "2026-11-01T11:50:24.216656Z",
+      "search_term": "\"AU Foulum\" agroøkologi",
       "source": "Bing Web"
     },
     {
@@ -24137,6 +24146,33 @@
       "publication_date": null,
       "first_discovered": "2026-10-31T10:55:28.955619Z",
       "search_term": "\"AU Foulum\" agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Aarhus Kommune: indbyggertal, byer, borgmester og fakta (2026)",
+      "url": "https://kommuner.dk/kommuner/aarhus",
+      "publisher": "kommuner.dk",
+      "publication_date": null,
+      "first_discovered": "2026-11-01T11:50:24.216656Z",
+      "search_term": "\"Aarhus Universitet\" agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Guldborgsund - Kort og rute | Krak.dk",
+      "url": "https://www.krak.dk/kort/s%C3%B8g/guldborgsund?t=geos",
+      "publisher": "www.krak.dk",
+      "publication_date": null,
+      "first_discovered": "2026-11-01T11:50:24.216656Z",
+      "search_term": "\"AU Foulum\" agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Exhibitions - Glyptoteket",
+      "url": "https://glyptoteket.com/exhibitions",
+      "publisher": "glyptoteket.com",
+      "publication_date": null,
+      "first_discovered": "2026-11-01T11:50:24.216656Z",
+      "search_term": "\"AU Flakkebjerg\" agroøkologi",
       "source": "Bing Web"
     }
   ]
