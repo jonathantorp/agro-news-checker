@@ -1,5 +1,5 @@
 {
-  "last_successful_update": "2026-11-02T13:30:02.113601Z",
+  "last_successful_update": "2026-11-03T12:47:31.603530Z",
   "articles": [
     {
       "headline": "JP overser biokuls miljøfordele i en mediedækning baseret på frygt",
@@ -223,6 +223,15 @@
       "publisher": "nyheder.tv2.dk",
       "publication_date": "2026-09-28T07:15:00Z",
       "first_discovered": "2026-10-17T09:21:34.217001Z",
+      "search_term": "\"Aarhus Universitet\" agroøkologi",
+      "source": "Bing News"
+    },
+    {
+      "headline": "Regnefejl ændrer ikke noget, siger professor",
+      "url": "https://nyheder.tv2.dk/live/samfund/2026-09-28-dansk-landbrug-i-forandring/regnefejl-aendrer-ikke-noget-siger-professor?entry=9815b42b-a9a7-4219-8000-e15fe2e1ed20",
+      "publisher": "nyheder.tv2.dk",
+      "publication_date": "2026-09-28T07:15:00Z",
+      "first_discovered": "2026-11-03T12:47:31.603530Z",
       "search_term": "\"Aarhus Universitet\" agroøkologi",
       "source": "Bing News"
     },
@@ -24316,6 +24325,24 @@
       "publisher": "tripates.com",
       "publication_date": null,
       "first_discovered": "2026-11-02T13:30:02.113601Z",
+      "search_term": "\"AU Foulum\" agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "必胜客披萨上的小桌是用来干什么的？ - 知乎",
+      "url": "https://www.zhihu.com/question/41295386",
+      "publisher": "www.zhihu.com",
+      "publication_date": null,
+      "first_discovered": "2026-11-03T12:47:31.603530Z",
+      "search_term": "\"AU Foulum\" agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "北京哪家披萨最好吃？ - 知乎",
+      "url": "https://www.zhihu.com/question/20695244",
+      "publisher": "www.zhihu.com",
+      "publication_date": null,
+      "first_discovered": "2026-11-03T12:47:31.603530Z",
       "search_term": "\"AU Foulum\" agroøkologi",
       "source": "Bing Web"
     }
