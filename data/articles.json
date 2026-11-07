@@ -1,5 +1,5 @@
 {
-  "last_successful_update": "2026-11-06T12:57:05.677103Z",
+  "last_successful_update": "2026-11-07T11:43:42.765854Z",
   "articles": [
     {
       "headline": "JP overser biokuls miljøfordele i en mediedækning baseret på frygt",
@@ -81,6 +81,15 @@
       "first_discovered": "2026-10-14T10:12:59.634531Z",
       "search_term": "\"Aarhus Universitet\" agroøkologi",
       "source": "Bing News"
+    },
+    {
+      "headline": "71 Nyhavn Hotel | København | Danmark",
+      "url": "https://71nyhavn.com-hotel.website/da",
+      "publisher": "71nyhavn.com-hotel.website",
+      "publication_date": "2026-10-14T00:00:00Z",
+      "first_discovered": "2026-11-07T11:43:42.765854Z",
+      "search_term": "\"AU Flakkebjerg\" agroøkologi",
+      "source": "Bing Web"
     },
     {
       "headline": "Aarhus Universitet undskylder fejl i beregning bag kvælstofregulering",
@@ -2339,6 +2348,15 @@
       "publication_date": "2025-03-14T14:47:27Z",
       "first_discovered": "2026-10-09T11:53:59.224965Z",
       "search_term": "\"Department of Agroecology\" Aarhus",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Den ultimative pizza-guide i Aarhus: 9 steder, du skal besøge",
+      "url": "https://tipaarhus.dk/pizza-guide-til-aarhus",
+      "publisher": "tipaarhus.dk",
+      "publication_date": "2025-03-14T10:00:00Z",
+      "first_discovered": "2026-11-07T11:43:42.765854Z",
+      "search_term": "\"AU Foulum\" agroøkologi",
       "source": "Bing Web"
     },
     {
@@ -24578,6 +24596,33 @@
       "publication_date": null,
       "first_discovered": "2026-11-06T12:57:05.677103Z",
       "search_term": "\"Department of Agroecology\" Aarhus",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "71 Nyhavn Hotel | Hotel i København K, København",
+      "url": "https://71-nyhavn-hotel.hotel-ronneh.dk/",
+      "publisher": "71-nyhavn-hotel.hotel-ronneh.dk",
+      "publication_date": null,
+      "first_discovered": "2026-11-07T11:43:42.765854Z",
+      "search_term": "\"AU Flakkebjerg\" agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Nyhavn 71, st. 1051 København K - på - m² - Boligsiden",
+      "url": "https://www.boligsiden.dk/adresse/nyhavn-71-0--1051-koebenhavn-k",
+      "publisher": "www.boligsiden.dk",
+      "publication_date": null,
+      "first_discovered": "2026-11-07T11:43:42.765854Z",
+      "search_term": "\"AU Flakkebjerg\" agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Nyhavn 71, 1051 København K | Villa | Boligblikket",
+      "url": "https://www.boligblikket.dk/adresse/1051-koebenhavn-k-nyhavn-71",
+      "publisher": "www.boligblikket.dk",
+      "publication_date": null,
+      "first_discovered": "2026-11-07T11:43:42.765854Z",
+      "search_term": "\"AU Flakkebjerg\" agroøkologi",
       "source": "Bing Web"
     }
   ]
