@@ -1,5 +1,5 @@
 {
-  "last_successful_update": "2026-11-24T15:53:03.438057Z",
+  "last_successful_update": "2026-11-25T15:36:11.089944Z",
   "articles": [
     {
       "headline": "11 grunde på Annexvej i Høm solgt for 6 millioner kr, 990.000 kr ...",
@@ -4841,6 +4841,15 @@
       "publication_date": "2018-08-15T16:02:23.225000Z",
       "first_discovered": "2026-09-01T10:06:21.664786Z",
       "search_term": "Institut for Agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "Aarhus Kommunes hjemmeside",
+      "url": "https://aarhus.dk/om-kommunen/databeskyttelse/om-hjemmesiden/aarhus-kommunes-hjemmeside",
+      "publisher": "aarhus.dk",
+      "publication_date": "2018-08-10T06:27:04Z",
+      "first_discovered": "2026-11-25T15:36:11.089944Z",
+      "search_term": "\"Aarhus Universitet\" agroøkologi",
       "source": "Bing Web"
     },
     {
@@ -26171,6 +26180,15 @@
       "publication_date": null,
       "first_discovered": "2026-11-24T15:53:03.438057Z",
       "search_term": "\"AU Flakkebjerg\" agroøkologi",
+      "source": "Bing Web"
+    },
+    {
+      "headline": "25 ting at lave i Aarhus | Oplevelser i Aarhus",
+      "url": "https://todoaarhus.dk/da",
+      "publisher": "todoaarhus.dk",
+      "publication_date": null,
+      "first_discovered": "2026-11-25T15:36:11.089944Z",
+      "search_term": "\"Aarhus Universitet\" agroøkologi",
       "source": "Bing Web"
     }
   ]
